@@ -1,4 +1,9 @@
-# c2bE4DcV
+# HomePage
+
+First version of using GITHUB + SCRIMBA -
+THanks ~ 
+
+
 
 Quick start:
 
